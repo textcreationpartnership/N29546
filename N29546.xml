@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:039350_0000_10141E864934F2E8"/>
-            <pb facs="tcp:039350_0001_10141E87D5B6E238"/>
+            <pb facs="unknown:039350_0000_10141E864934F2E8"/>
+            <pb facs="unknown:039350_0001_10141E87D5B6E238"/>
             <head>A Congratulatory Address, Of the House of Representatives of His Majesties Province of New-Hampshire, Conven'd in General Assembly, August 7th. Anno Domini. 1699. To His Excellency RICHARD, Earl of BELLOMONT, Captain General and Governour in Chief of His Majesties Provinces of the Massachusetts Bay, New-York, and New-Hampshire, in New-England, and Vice Admiral of the same.</head>
             <opener>
                <salute>May it please Your Excellency,</salute>
